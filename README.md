@@ -1,5 +1,5 @@
 # Windows Docker Registry Service
-Registry service will install / un-install, start / stop, and run a program as a service (daemon).
+Registry service will install / un-install, start / stop, and run as a service (daemon).
 
 Step 1) build the registry:
 
